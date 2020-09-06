@@ -1,5 +1,7 @@
-# brick breaker game with p5.js
+# brick breaker game with P5.js
+JavaScript practice
 
+<<<<<<< HEAD
 ## Implements P5.js library to create a retro game using OOP methods 
 ### ball.js attributes and methods
 * radius
@@ -77,3 +79,7 @@
 * if the ball hits a brick it will be removed from the array of instances
 * when all bricks are gone the game is over and displays a winning message as well as the score 
 
+=======
+Implements P5.js library to create a retro game using OOP methods
+Ball Class
+>>>>>>> 617ecdd9bf831c2925e429e25f78d98211af91dc
